@@ -1,13 +1,19 @@
 What happens when you initialize a repository? Why do you need to do it?
 
-How is the staging area different from the working directory and the repository?
-What value do you think it offers?
+It creates a new secret folder (.git) that has the properties of a repository. I need it becuse is so useful to have acces to the history of changes that have been made in a project, since it was created.
 
-How can you use the staging area to make sure you have one commit per logical
-change?
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+The staging area is between them, it's like a preparation before commit something to the repository. It's really good, because I can choose the files or changes I want to commit.
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+I can use the commands git diff and git diff --staged to make shure exactly what specific changes I want to commit.
 
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
+
+When I'm not sure if an experimental idea will work out, or when I want to add a feature, but not remove another (i.e. a launguage). They will create a new version of my project without changing the original.
 
 How do the diagrams help you visualize the branch structure?
 
