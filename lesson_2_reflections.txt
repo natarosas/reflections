@@ -17,6 +17,8 @@ When I'm not sure if an experimental idea will work out, or when I want to add a
 
 How do the diagrams help you visualize the branch structure?
 
+They help me a lot, because I can see easily the parents of a commit, and the specific commits that belong to a determinated branch.
+
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
