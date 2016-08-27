@@ -22,5 +22,7 @@ They help me a lot, because I can see easily the parents of a commit, and the sp
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
+All the commits that belong to each other connect and make a new project. 
+
 What are the pros and cons of Gitâ€™s automatic merging vs. always doing merges
 manually?
