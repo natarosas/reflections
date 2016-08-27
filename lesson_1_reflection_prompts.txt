@@ -1,0 +1,48 @@
+How did viewing a diff between two versions of a file help you see the bug that was introduced?
+
+    
+That make it easier and faster, beacuse it highligths the changes that have been done in the file. 
+
+
+
+How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+    
+
+I could learn a lot, watchin different changes and its effect in a file with an explanation from the autor. I can re-use my projects, and learn for other's work.    
+
+
+
+What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google docs does?
+
+   
+The pros are that the changes saved will be significant and relevant to each project, and could be explained. One con I find is that perhaps I could forget saving my work and I could lost it.
+
+
+
+Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+
+
+Because in Git we treat projects that involve coding, so in most of the cases various files in a project are conected to each other. While in Google Docs we make changes in document files which tend to be indepent.
+ 
+
+
+How can you use the commands git log and git diff to view the history of files?
+
+    
+I can use git log to see all the commits that have been done in the file, and git diff to compare two commits ans see specific changes.
+
+
+
+How might using version control make you more confident to make changes that could break something?
+
+    
+I can be more confident because I can navigate thorugh different commits and see tan changes that it had produce in my project. And more important, I can revert my project to previous state I need.
+
+
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+    
+I want to use for make my portfolio or resume, and for learn from other people's projects, and make my own contributions.
+
+
