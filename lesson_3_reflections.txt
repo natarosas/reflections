@@ -11,10 +11,9 @@ Describe the differences between forks, clones, and branches.  When would you us
 
     A fork creates a copy of a project in your own GiHub account, and you can modify it. A clone creates a copy of a project from Github or another computer to your local system. And a branch, is a new line of commits that does not affect you project unless you merge it with the principal branch (master).
 
-What is the benefit of having a copy of the last known state of the remote
-stored locally?
+What is the benefit of having a copy of the last known state of the remote stored locally?
 
-    Fill in your answer here
+    When I fletch the remote changes, they will merge with the stored copy I have, and not with the actual branch I'm working on, so that saves problems.
 
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
