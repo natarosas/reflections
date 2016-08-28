@@ -24,5 +24,6 @@ the diagram the way we do?
 
 All the commits that belong to each other connect and make a new project. 
 
-What are the pros and cons of Gitâ€™s automatic merging vs. always doing merges
-manually?
+What are the pros and cons of Git automatic merging vs. always doing merges manually?
+
+The merge done by Git is faster, but sometimes can lead to errors.
