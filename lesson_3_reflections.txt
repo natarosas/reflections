@@ -15,11 +15,10 @@ What is the benefit of having a copy of the last known state of the remote store
 
     When I fletch the remote changes, they will merge with the stored copy I have, and not with the actual branch I'm working on, so that saves problems.
 
-How would you collaborate without using Git or GitHub?  What would be easier,
-and what would be harder?
-
-    Fill in your answer here
-
+How would you collaborate without using Git or GitHub?  What would be easier, and what would be harder?
+  
+    Colaborate in projects without Git and GitHub, would be so much harder and dangerous for a project, since one could break it, and nobody could make experimental changes.
+    
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
 
